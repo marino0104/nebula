@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "state": "en CEDI",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "",
+    "adviser": {
+      "name": "Blanca Arango",
+      "doc": "1234567",
+      "phone": "45674545",
+      "celular": "31133333",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Santa Fé",
+      "direction": "calle 4 #24d-14",
+      "poblation_code": 1,
+      "zone_code": 3
+    }
+  },
+  {
+    "id": 2,
+    "state": "entregado",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "ruta2",
+    "adviser": {
+      "name": "Luisa Montoya",
+      "doc": "1334567",
+      "phone": "45674578",
+      "celular": "31133633",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Milagrosa",
+      "direction": "calle 45 #31-15",
+      "poblation_code": 1,
+      "zone_code": 4
+    }
+  },
+  {
+    "id": 3,
+    "state": "entregado",
+    "generator": "línea directa",
+    "cedi": "Barranquilla",
+    "route": "ruta3",
+    "adviser": {
+      "name": "Diego Rivera",
+      "doc": "12384567",
+      "phone": "45674590",
+      "celular": "31136333",
+      "region_department": "Atlántico",
+      "city": "Barranquilla",
+      "neighborhood": "Caribe Verde",
+      "direction": "calle 7 #27-14",
+      "poblation_code": 3,
+      "zone_code": 5
+    }
+  },
+  {
+    "id": 4,
+    "state": "en CEDI",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "",
+    "adviser": {
+      "name": "Rosario Andrade",
+      "doc": "12384567",
+      "phone": "456564590",
+      "celular": "31136893",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Santa Fé",
+      "direction": "calle 4 #24d-14",
+      "poblation_code": 1,
+      "zone_code": 3
+    }
+  },
+  {
+    "id": 5,
+    "state": "en CEDI",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "",
+    "adviser": {
+      "name": "Beatríz Pinzón",
+      "doc": "123845657",
+      "phone": "45674590",
+      "celular": "345136333",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Santa Fé",
+      "direction": "calle 4 #24d-14",
+      "poblation_code": 1,
+      "zone_code": 3
+    }
+  },
+  {
+    "id": 6,
+    "state": "en CEDI",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "",
+    "adviser": {
+      "name": "Martha Bolaños",
+      "doc": "12356657",
+      "phone": "45674230",
+      "celular": "345138733",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Santa Fé",
+      "direction": "calle 4 #24d-14",
+      "poblation_code": 1,
+      "zone_code": 3
+    }
+  },
+  {
+    "id": 7,
+    "state": "en CEDI",
+    "generator": "línea directa",
+    "cedi": "Barranquilla",
+    "route": "",
+    "adviser": {
+      "name": "Armando Paredes",
+      "doc": "12375567",
+      "phone": "45659890",
+      "celular": "311365433",
+      "region_department": "Atlántico",
+      "city": "Barranquilla",
+      "neighborhood": "Caribe Verde",
+      "direction": "calle 7 #27-14",
+      "poblation_code": 3,
+      "zone_code": 5
+    }
+  },
+  {
+    "id": 8,
+    "state": "entregado",
+    "generator": "línea directa",
+    "cedi": "Barranquilla",
+    "route": "ruta3",
+    "adviser": {
+      "name": "Juliana González",
+      "doc": "12385667",
+      "phone": "456745790",
+      "celular": "3114733",
+      "region_department": "Atlántico",
+      "city": "Barranquilla",
+      "neighborhood": "Caribe Verde",
+      "direction": "calle 7 #27-14",
+      "poblation_code": 3,
+      "zone_code": 5
+    }
+  },
+  {
+    "id": 9,
+    "state": "entregado",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "ruta2",
+    "adviser": {
+      "name": "Carmen Cadena",
+      "doc": "1337867",
+      "phone": "45668578",
+      "celular": "31139733",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Milagrosa",
+      "direction": "calle 45 #31-15",
+      "poblation_code": 1,
+      "zone_code": 4
+    }
+  },
+  {
+    "id": 10,
+    "state": "en CEDI",
+    "generator": "línea directa",
+    "cedi": "Medellín",
+    "route": "",
+    "adviser": {
+      "name": "Maria Ramirez",
+      "doc": "124675657",
+      "phone": "45674447",
+      "celular": "34513657",
+      "region_department": "Antioquia",
+      "city": "Medellín",
+      "neighborhood": "Santa Fé",
+      "direction": "calle 4 #24d-14",
+      "poblation_code": 1,
+      "zone_code": 3
+    }
+  }
+]
